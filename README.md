@@ -4,6 +4,12 @@ Apply the MSCH carbon, steel, bone and acid-accent palette to compatible custom 
 
 [Node reference](docs/NODES.md) · [Example workflows and results](examples/README.md) · [Publishing guide](PUBLISHING.md)
 
+<!-- MSCH SHOWCASE -->
+[![MSCH Theme showcase](examples/showcase/outputs/msch_theme_palette_card.png)](examples/showcase/README.md)
+
+**[View the palette and themed-node mock-up](examples/showcase/README.md)**
+<!-- /MSCH SHOWCASE -->
+
 ## Included nodes
 
 | Node | What it does |
