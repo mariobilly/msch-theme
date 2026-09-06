@@ -1,0 +1,19 @@
+[project]
+name = "msch-theme"
+version = "0.1.0"
+description = "Apply the MSCH carbon, steel, bone and acid-accent palette to compatible custom node cards."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/mariobilly/msch-theme"
+Documentation = "https://github.com/mariobilly/msch-theme/blob/main/docs/NODES.md"
+"Bug Tracker" = "https://github.com/mariobilly/msch-theme/issues"
+
+[tool.comfy]
+# Set to the publisher ID you own at registry.comfy.org before publishing.
+PublisherId = ""
+DisplayName = "MSCH Theme"
+
